@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Alex
 If I wasn't a developer I wouldn't be here!
 
-Skills: luau / nodejs / python
+Skills: luau / nodejs / python / ...
 
 - 🔭 I’m currently working on **subscriptionservice** 
 - 💬 Ask me about everything 
